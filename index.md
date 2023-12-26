@@ -1,14 +1,14 @@
 # Below is a cool image
 ![Image of a cool Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Code Snippit
+## Code Snippet
 
 ```
 $ git init
 ```
 Initialized **empty Git** repository in /Users/skills/Projects/recipe-repository/.git/
 
-## Checklist(Example)
+## Checklist
 
 Task List start here:
 - [x] Turn on GitHub Pages
