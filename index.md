@@ -9,6 +9,7 @@ $ git init
 Initialized **empty Git** repository in /Users/skills/Projects/recipe-repository/.git/
 
 ## Checklist
+
 Task List start here:
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
