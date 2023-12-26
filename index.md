@@ -14,4 +14,4 @@ Task List start here:
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [x] Introduce myself to the world
-
+- [ ] complete the github series communicate using markdow
